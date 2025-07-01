@@ -1,6 +1,7 @@
 image: node:20
 
 pages:
+  stage: deploy
   before_script:
     - npm install -g hexo-cli
     - npm install
