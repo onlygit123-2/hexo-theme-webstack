@@ -15,4 +15,3 @@ create-pages:
   script:
     - hexo clean
     - hexo generate
-    - mv public public
