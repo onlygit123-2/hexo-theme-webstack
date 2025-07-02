@@ -39,8 +39,20 @@ Page:
     description: 91视频APP
   - name: 七彩直播
     url: https://github.com/qicaizhibo123321/tvshow
-    img: /images/logos/七彩直播.png
+    img: /images/logos/七彩半糖通用.jfif
     description: 七彩直播APP
+    - name: 半糖直播
+    url: https://github.com/bantangzhibo66688/live
+    img: /images/logos/七彩半糖通用.jfif
+    description: 半糖直播APP
+- name: 小红帽直播
+    url: https://github.com/xiaohongmaozhibozuixin/live
+    img: /images/logos/小红帽直播.png
+    description: 小红帽直播APP
+    - name: 葫芦娃视频
+    url: https://github.com/huluwagit/huluwa
+    img: /images/logos/葫芦娃.jfif
+    description: 葫芦娃视频APP
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
