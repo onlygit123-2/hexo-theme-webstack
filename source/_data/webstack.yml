@@ -53,6 +53,82 @@ Page:
     url: https://github.com/huluwagit/huluwa
     img: /images/logos/huluwa.jfif
     description: 葫芦娃视频APP
+  - name: 番茄社区
+    url: https://github.com/fanqieshequ123/fanqiesehqu
+    img: /images/logos/番茄社区.png
+    description: 番茄社区APP
+  - name: tata直播
+    url: https://github.com/tatalive123/tata
+    img: /images/logos/tata直播.jfif
+    description: tata直播APP
+  - name: 密语直播
+    url: https://github.com/caoliu123321/caoliu
+    img: /images/logos/密语直播.jfif
+    description: 密语直播APP
+  - name: 麻豆视频
+    url: https://github.com/madouvv/mandou
+    img: /images/logos/麻豆视频.jfif
+    description: 麻豆视频APP
+  - name: 撸先生
+    url: https://github.com/luxianshengvv/live
+    img: /images/logos/撸先生.jfif
+    description: 撸先生APP
+  - name: 五十度灰
+    url: https://github.com/wushiduhuivv/wushi
+    img: /images/logos/五十度灰.jfif
+    description: 五十度灰APP
+  - name: 汤头条
+    url: https://github.com/tangtoutiaovv/live
+    img: /images/logos/汤头条.jfif
+    description: 汤头条APP
+  - name: 18摸
+    url: https://github.com/18movv/18mo
+    img: /images/logos/18摸.ico
+    description: 18摸APP
+  - name: 雨燕体育
+    url: https://github.com/yuyanlive/yuyan
+    img: /images/logos/雨燕体育.jfif
+    description: 雨燕体育APP
+  - name: 逼哩逼哩
+    url: https://github.com/bilibilivv/bilibili
+    img: /images/logos/逼哩逼哩.jfif
+    description: 逼哩逼哩APP
+  - name: 欲漫涩
+    url: https://github.com/yumanse/yumanse
+    img: /images/logos/欲漫涩.jfif
+    description: 欲漫涩APP
+  - name: 糖心视频Vlog
+    url: https://github.com/tangxinvv/video
+    img: /images/logos/糖心视频Vlog.jfif
+    description: 糖心视频Vlog APP
+  - name: 泡芙短视频
+    url: https://github.com/paofuvv/paofu
+    img: /images/logos/泡芙短视频.png
+    description: 泡芙短视频APP
+  - name: 好色姐姐
+    url: https://github.com/haosejiejie/jiejiefm
+    img: /images/logos/好色姐姐.ico
+    description: 好色姐姐APP
+  - name: one一个韩寒
+    url: https://github.com/oneyigeguanfang/one
+    img: /images/logos/one一个韩寒.png
+    description: one一个韩寒APP
+  - name: 色中色视频
+    url: https://github.com/sezhongse/live
+    img: /images/logos/色中色视频.jfif
+    description: 色中色视频APP
+  - name: 51本色
+    url: https://github.com/51bensevv/51bense
+    img: /images/logos/51本色.jfif
+    description: 51本色APP
+  - name: 多彩直播
+    url: https://github.com/duocailive/duocai
+    img: /images/logos/多彩直播.png
+    description: 多彩直播APP
+  - name: 91涩漫
+    url: https://github.com/91seman/91
+    img: /images/logos/91涩漫.jfif
+    description: 91涩漫APP
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
