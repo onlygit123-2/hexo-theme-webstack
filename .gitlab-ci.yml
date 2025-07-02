@@ -1,4 +1,4 @@
-image: node:lts-buster  # 使用稳定的 LTS Node.js 版本
+image: node:lts-buster
 
 cache:
   paths:
@@ -7,23 +7,29 @@ cache:
 stages:
   - deploy
 
-pages:  # 任务名必须为 pages
+# 必须使用作业名为"pages"的单一作业
+pages:
   stage: deploy
   script:
-    # 1. 安装全局 Hexo CLI
+    # Hexo安装和构建
     - npm install -g hexo-cli
-    
-    # 2. 安装项目依赖 (包含 webstack 主题)
     - npm install
+    - hexo generate  # 生成public目录
     
-    # 3. 生成静态文件 (自动创建 public 目录)
-    - hexo generate
-    
+    # 可选：Webstack主题额外构建
+    # - cd themes/webstack && npm install && npm run build
+    # - cd ../..  # 返回项目根目录
+  
+  # 声明制品目录（必须包含网站文件）
   artifacts:
     paths:
-      - public  # 重要：必须指向 Hexo 生成的目录
-  publish: public  
-
-  # 仅在主分支部署 (根据需要修改分支名)
-  only:
-    - main  # 或 master/your-branch-name
+      - public  # Hexo默认输出目录
+    expire_in: 1 hour
+  
+  # 关键：必须声明发布目录
+  publish: public  # 解决部署错误
+  
+  # 触发规则（示例）
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'  # 仅主分支部署
+      when: on_success
