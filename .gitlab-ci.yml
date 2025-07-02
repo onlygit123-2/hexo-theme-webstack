@@ -1,16 +1,29 @@
-# The Docker image that will be used to build your app
-image: node:20
-pages:
-    # The folder that contains the files to be exposed at the Page URL
-  publish: public
-  rules:
-    # This ensures that only pushes to the default branch will trigger
-    # a pages deploy
-    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
-  # Functions that should be executed before the build script is run
-  before_script:
-    - npm install -g hexo-cli
-    - npm install
+image: node:lts-buster  # 使用稳定的 LTS Node.js 版本
+
+cache:
+  paths:
+    - node_modules/
+
+stages:
+  - deploy
+
+pages:  # 任务名必须为 pages
+  stage: deploy
   script:
-    - hexo clean
+    # 1. 安装全局 Hexo CLI
+    - npm install -g hexo-cli
+    
+    # 2. 安装项目依赖 (包含 webstack 主题)
+    - npm install
+    
+    # 3. 生成静态文件 (自动创建 public 目录)
     - hexo generate
+    
+  artifacts:
+    paths:
+      - public  # 重要：必须指向 Hexo 生成的目录
+  publish: public  
+
+  # 仅在主分支部署 (根据需要修改分支名)
+  only:
+    - main  # 或 master/your-branch-name
