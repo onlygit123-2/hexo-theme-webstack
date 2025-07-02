@@ -3,7 +3,7 @@ image: node:20
 create-pages:
   pages:
     # The folder that contains the files to be exposed at the Page URL
-    publish: public
+    publish: public-page
   rules:
     # This ensures that only pushes to the default branch will trigger
     # a pages deploy
@@ -13,5 +13,4 @@ create-pages:
     - npm install -g hexo-cli
     - npm install
   script:
-    - hexo clean
-    - hexo generate
+    - mv public public-page
