@@ -36,8 +36,12 @@ Page:
   - name: 91视频
     url: https://github.com/liveshow123321/tvshow
     img: /images/logos/91.jpg
-    description: 91视频
-
+    description: 91视频APP
+Page:
+  - name: 七彩直播
+    url: https://github.com/qicaizhibo123321/tvshow
+    img: /images/logos/91.jpg
+    description: 七彩直播APP
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
