@@ -45,10 +45,10 @@ menu:
         config: myBlog
 
 testPage:
-  - name: Child Page
-    url: /child
+  - name: 91视频
+    url: https://github.com/liveshow123321/tvshow
     img: /images/logos/myblog.png
-    description: 子页面测试
+    description: 91视频
 devTools:
   - name: Github
     url: https://github.com/
