@@ -4,17 +4,15 @@ cache:
   paths:
     - node_modules/
 
-stages:
-  - deploy
-
-# 必须使用作业名为"pages"的单一作业
 pages:
   stage: deploy
   script:
     # Hexo安装和构建
     - npm install -g hexo-cli
     - npm install
+    - hexo clean
     - hexo generate  # 生成public目录
+    - ls -l public
     
     # 可选：Webstack主题额外构建
     # - cd themes/webstack && npm install && npm run build
@@ -24,12 +22,10 @@ pages:
   artifacts:
     paths:
       - public  # Hexo默认输出目录
-    expire_in: 1 hour
   
   # 关键：必须声明发布目录
-  publish: public  # 解决部署错误
+  publish: public 
   
-  # 触发规则（示例）
   rules:
     - if: '$CI_COMMIT_BRANCH == "main"'  # 仅主分支部署
       when: on_success
