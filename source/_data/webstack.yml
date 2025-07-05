@@ -129,6 +129,26 @@ Page:
     url: https://github.com/91seman/91
     img: /images/logos/91涩漫.jfif
     description: 91涩漫APP
+  - name: 本爱直播
+    url: https://github.com/benailive/benai
+    img: /images/logos/本爱直播.png
+    description: 本爱直播APP
+  - name: baby直播
+    url: https://github.com/babylivevv/baby
+    img: /images/logos/baby.png
+    description: baby直播APP
+  - name: 小草莓直播
+    url: https://github.com/xiaocaomeivv/caomei
+    img: /images/logos/小草莓.png
+    description: 小草莓直播APP
+  - name: 艳池直播直播
+    url: https://github.com/yanchivv/yanchi
+    img: /images/logos/艳池直播.jpg
+    description: 艳池直播（原名春雨直播）
+  - name: 杏吧直播
+    url: https://github.com/xingbavv/xingba
+    img: /images/logos/杏吧直播.png
+    description: 杏吧直播
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
