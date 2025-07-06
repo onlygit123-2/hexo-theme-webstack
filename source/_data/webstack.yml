@@ -36,119 +36,123 @@ Page:
   - name: 91视频
     url: https://github.com/liveshow123321/tvshow
     img: /images/logos/91.jpg
-    description: 91视频APP
+    description: 主打互动，真实上瘾
   - name: 七彩直播
     url: https://github.com/qicaizhibo123321/tvshow
     img: /images/logos/qicaibantangtongyong.jfif
-    description: 七彩直播APP
+    description: 不止直播，是陪伴
   - name: 半糖直播
     url: https://github.com/bantangzhibo66688/live
     img: /images/logos/qicaibantangtongyong.jfif
-    description: 半糖直播APP
+    description: 陪你白天黑夜
   - name: 小红帽直播
     url: https://github.com/xiaohongmaozhibozuixin/live
     img: /images/logos/xiaohongmaozhibo.png
-    description: 小红帽直播APP
+    description: 有温度的直播间
   - name: 葫芦娃视频
     url: https://github.com/huluwagit/huluwa
     img: /images/logos/huluwa.jfif
-    description: 葫芦娃视频APP
+    description: 内容敢播，人设敢立
   - name: 番茄社区
     url: https://github.com/fanqieshequ123/fanqiesehqu
     img: /images/logos/番茄社区.png
-    description: 番茄社区APP
+    description: 每一秒都来电
   - name: tata直播
     url: https://github.com/tatalive123/tata
     img: /images/logos/tata直播.jfif
-    description: tata直播APP
+    description: 真人连线，心动现场
   - name: 密语直播
     url: https://github.com/caoliu123321/caoliu
     img: /images/logos/密语直播.jfif
-    description: 密语直播APP
+    description: 懂你所需，播你所想
   - name: 麻豆视频
     url: https://github.com/madouvv/mandou
     img: /images/logos/麻豆视频.jfif
-    description: 麻豆视频APP
+    description: 直播不设限
   - name: 撸先生
     url: https://github.com/luxianshengvv/live
     img: /images/logos/撸先生.jfif
-    description: 撸先生APP
+    description: 播出你的幻想
   - name: 五十度灰
     url: https://github.com/wushiduhuivv/wushi
     img: /images/logos/五十度灰.jfif
-    description: 五十度灰APP
+    description: 高能开撩不停
   - name: 汤头条
     url: https://github.com/tangtoutiaovv/live
     img: /images/logos/汤头条.jfif
-    description: 汤头条APP
+    description: 不演，只敢真
   - name: 18摸
     url: https://github.com/18movv/18mo
     img: /images/logos/18摸.ico
-    description: 18摸APP
+    description: 氛围感拉满
   - name: 雨燕体育
     url: https://github.com/yuyanlive/yuyan
     img: /images/logos/雨燕体育.jfif
-    description: 雨燕体育APP
+    description: 直播也能成瘾
   - name: 逼哩逼哩
     url: https://github.com/bilibilivv/bilibili
     img: /images/logos/逼哩逼哩.jfif
-    description: 逼哩逼哩APP
+    description: 好看，也好聊
   - name: 欲漫涩
     url: https://github.com/yumanse/yumanse
     img: /images/logos/欲漫涩.jfif
-    description: 欲漫涩APP
+    description: 即时上头体验
   - name: 糖心视频Vlog
     url: https://github.com/tangxinvv/video
     img: /images/logos/糖心视频Vlog.jfif
-    description: 糖心视频Vlog APP
+    description: 声音，画面，情绪
   - name: 泡芙短视频
     url: https://github.com/paofuvv/paofu
     img: /images/logos/泡芙短视频.png
-    description: 泡芙短视频APP
+    description: 撩值爆表
   - name: 好色姐姐
     url: https://github.com/haosejiejie/jiejiefm
     img: /images/logos/好色姐姐.ico
-    description: 好色姐姐APP
+    description: 自带温柔滤镜
   - name: one一个韩寒
     url: https://github.com/oneyigeguanfang/one
     img: /images/logos/one一个韩寒.png
-    description: one一个韩寒APP
+    description: 刷新你的想象
   - name: 色中色视频
     url: https://github.com/sezhongse/live
     img: /images/logos/色中色视频.jfif
-    description: 色中色视频APP
+    description: 刷新你的想象
   - name: 51本色
     url: https://github.com/51bensevv/51bense
     img: /images/logos/51本色.jfif
-    description: 51本色APP
+    description: 播出不一样
   - name: 多彩直播
     url: https://github.com/duocailive/duocai
     img: /images/logos/多彩直播.png
-    description: 多彩直播APP
+    description: 会撩，会聊，会演
   - name: 91涩漫
     url: https://github.com/91seman/91
     img: /images/logos/91涩漫.jfif
-    description: 91涩漫APP
+    description: 夜晚更懂你
   - name: 本爱直播
     url: https://github.com/benailive/benai
     img: /images/logos/本爱直播.png
-    description: 本爱直播APP
+    description: 拿捏人设，拿捏你
   - name: baby直播
     url: https://github.com/babylivevv/baby
     img: /images/logos/baby.png
-    description: baby直播APP
+    description: 不只是露脸
   - name: 小草莓直播
     url: https://github.com/xiaocaomeivv/caomei
     img: /images/logos/小草莓.png
-    description: 小草莓直播APP
+    description: 情绪价值拉满
   - name: 艳池直播直播
     url: https://github.com/yanchivv/yanchi
     img: /images/logos/艳池直播.jpg
-    description: 艳池直播（原名春雨直播）
+    description: 随时随地，上头
   - name: 杏吧直播
     url: https://github.com/xingbavv/xingba
     img: /images/logos/杏吧直播.png
-    description: 杏吧直播
+    description: 纯欲or疯感，随你选
+  - name: 姐姐直播
+    url: https://github.com/jiejielive/jiejie
+    img: /images/logos/姐姐直播.png
+    description: 颜值在线，灵魂入场
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
