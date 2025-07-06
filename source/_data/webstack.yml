@@ -153,6 +153,18 @@ Page:
     url: https://github.com/jiejielive/jiejie
     img: /images/logos/姐姐直播.png
     description: 颜值在线，灵魂入场
+  - name: 花语直播
+    url: https://github.com/huayulive/huayu
+    img: /images/logos/花语直播.png
+    description: 每晚都是直播夜
+  - name: 色猫直播
+    url: https://github.com/semaolive/semao
+    img: /images/logos/色猫.png
+    description: 别处看不到
+  - name: 水仙直播
+    url: https://github.com/shuixianlive/shuixian
+    img: /images/logos/水仙直播.png
+    description: 敢秀才是王道
 
 about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
