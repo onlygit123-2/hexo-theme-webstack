@@ -28,7 +28,7 @@ githubCorner: '<a href="https://github.com/HCLonely/hexo-theme-webstack" class="
 
 expandAll: false
 menu:
-  - name: 测试页面
+  - name: 6D
     icon: far fa-star
     config: testPage
   - name: 常用工具
