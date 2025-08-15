@@ -7,7 +7,7 @@ logo:
   dark: /images/logo-6d.png
 
 flag:
-  - name: Chinese
+  - name: 中文
     default: true
     icon: flag-cn
     index: /index.html
@@ -170,6 +170,10 @@ about:
   url: https://down123.s3.ap-east-1.amazonaws.com/down/down.html?channelCode=daohang
   icon: far fa-heart
   name: 关于本站
+friendlinks:
+  url: /friendlinks/
+  icon: far fa-handshake
+  name: 友情链接
 
 
 since: 2025
