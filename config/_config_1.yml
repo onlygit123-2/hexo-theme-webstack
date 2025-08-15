@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 羞羞-test
+title: '酥妻视频导航 - 酥妻视频成人宅男福利导航'
 subtitle: ''
-description: ''
-keywords:
+description: '酥妻视频导航搜罗全网最新最热的优质精品福利站点,只为做狼友的百宝箱带来便捷愉快体验'
+keywords: '酥妻视频导航,酥妻视频福利,色情导航,成人导航,黄色导航,中文导航,成人网站,色情网站,黄色网站,酥妻视频视频,精品导航,福利导航,xxoo导航'
 author: 6D
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://aldult-live.github.io/WebStack-Hugo
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
