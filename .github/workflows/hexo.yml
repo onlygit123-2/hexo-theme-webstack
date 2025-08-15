@@ -53,5 +53,4 @@ jobs:
             git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
             git push -f origin gh-pages-$i
             cd ..
-            rm -rf public
           done
